@@ -1,1 +1,1 @@
-alert("Bienvendido");
+alert("Bienvenido");
